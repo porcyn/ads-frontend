@@ -2,6 +2,8 @@ import React from "react";
 import './style.css';
 import logogoogle from './assets/logogoogle.png'; // โลโก้ Google
 import lgtraffy from './assets/lgtraffy.png'; // โลโก้ ADS TRAFFY
+const API_URL = "https://ads-backend.up.railway.app";
+
 
 function Login() {
   const handleGoogleLogin = () => {
