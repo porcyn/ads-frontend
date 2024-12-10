@@ -7,7 +7,7 @@ const API_URL = "https://ads-backend.up.railway.app";
 
 function Login() {
   const handleGoogleLogin = () => {
-    window.location.href = "https://ads-backend.up.railway.app"; // เรียก Google OAuth
+    window.location.href = "https://ads-backend.up.railway.app/auth/google/callback"; // เรียก Google OAuth
   };
 
   return (
