@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3dc450ed.css",
+    "main.js": "/static/js/main.d87c2049.js",
+    "static/media/fongdu.jpg": "/static/media/fongdu.e0237e25730045a41a22.jpg",
+    "static/media/logogoogle.png": "/static/media/logogoogle.1260e96dae1ddd9efca5.png",
+    "index.html": "/index.html",
+    "main.3dc450ed.css.map": "/static/css/main.3dc450ed.css.map",
+    "main.d87c2049.js.map": "/static/js/main.d87c2049.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dc450ed.css",
+    "static/js/main.d87c2049.js"
+  ]
+}
